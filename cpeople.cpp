@@ -4,6 +4,7 @@ using namespace std
 
 CPeople{
 public:
-	int m_id:
 
+	int m_id;
+	char data;
 }
