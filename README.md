@@ -43,10 +43,17 @@
 :--:|:--:|:--:
 生化|200|12
 阿萨|199|11
-apex|0|3
+apex|0|3sd
 
+插入代码<br>
+```c
+#include<iostream>
 
-
+```
+# 超链接
+[BiliBili](https://www.bilibili.com"点击访问b站")
+# 插图
+![截图](网络地址)
 
 
 
